@@ -29,6 +29,9 @@ LINE Bot畫面
 Imgur API相關使用可參考:
 https://studyhost.blogspot.com/2018/12/imgurcom-api.html
 
+本範例主要程式碼位於:
+/WebApplication1/Controllers/LineWebHookSampleController.cs
+
 線上課程 與 電子書 
 ===
 LineBotSDK線上教學課程: <br/>
