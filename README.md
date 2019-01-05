@@ -24,7 +24,10 @@ LINE Bot畫面
 ```
 * 建議使用Ngrok進行測試 <br/>
 (可參考 https://youtu.be/kCga1_E-ijs ) 
-* LINE Bot後台的WebHook設定，其位置為 Http://你的domain/api/LineAccountBook
+* LINE Bot後台的WebHook設定，其位置為 Http://你的domain/api/LineWebHookSample
+
+Imgur API相關使用可參考:
+https://studyhost.blogspot.com/2018/12/imgurcom-api.html
 
 線上課程 與 電子書 
 ===
