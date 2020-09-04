@@ -19,9 +19,9 @@ namespace WebApplication1.Controllers
         {
             isRock.LineBot.Event LineEvent = null;
             //取得Web.config中的 app settings
-            var token = System.Configuration.ConfigurationManager.AppSettings["ChannelAccessToken"];
-            var CLIENT_ID = System.Configuration.ConfigurationManager.AppSettings["Imgur_CLIENT_ID"];
-            var CLIENT_SECRET = System.Configuration.ConfigurationManager.AppSettings["Imgur_CLIENT_SECRET"];
+            var token = System.Configuration.ConfigurationManager.AppSettings["g2cfcaiQgAc9+Sg9JcAnO4OvXqvvNkrIDeFEy089oG7cmO8yXRshePGa+wgTzAQ2aoDinj9TBGu2471l4BqtZXQJWCraicw5S5V8HgyBdoNtLQos4MMJdanGMaC24jSUvWkHbMj6xt66bvhLl11MbAdB04t89/1O/w1cDnyilFU="];
+            var CLIENT_ID = System.Configuration.ConfigurationManager.AppSettings["fdd30319757d1cf"];
+            var CLIENT_SECRET = System.Configuration.ConfigurationManager.AppSettings["b4ee94f79457430cd201f82f69cfd85f2aa72518"];
 
             try
             {
